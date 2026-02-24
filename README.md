@@ -1,5 +1,5 @@
-# pluto-download-installers
-Latest installers for Pluto application
+# ElPerrodeFry
+Latest installers from ElPerrodeFry
 
 As an indie developer, this app is not digitally signed by Microsoft or Apple yet.
 
